@@ -1,5 +1,5 @@
 title = "Corps Dakwah Masjid Syuhada"
-baseurl = "https://www.cdms.netlify.app/"
+baseurl = "https://www.cdmssyuhada.netlify.app/"
 
 # Agar front-matter pakai format YAML
 MetaDataFormat = "yaml"
