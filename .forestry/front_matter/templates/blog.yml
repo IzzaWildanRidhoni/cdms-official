@@ -17,9 +17,6 @@ fields:
 - type: list
   name: categories
   label: categories
-- type: text
-  name: image
-  label: image
 - type: textarea
   name: thumbnail
   label: thumbnail
