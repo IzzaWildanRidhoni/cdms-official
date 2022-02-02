@@ -239,3 +239,7 @@ nav {
 .gambar-404 {
   width: 200px;
 }
+
+.imgtengah img {
+  width: 100% !important;
+}
