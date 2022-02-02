@@ -14,7 +14,7 @@ image: ''
 thumbnail: https://iili.io/lQfq41.jpg
 
 ---
-![](/uploads/kajjianahadpagi-all.jpg)
+![](/uploads/cover.png)
 
 🕌Kajian Ahad Pagi Bulan Februari 2022🕌
 
