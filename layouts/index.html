@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body>
+    {{ partial "nav.html" . }}
+
+    <!-- jumbotron -->
+    <div class="jumbotron jumbotron-fluid">
+      <div class="container">
+        <div class="jumbotron-isi">
+          <h2 class="display-4">
+            Corps Dakwah <br />
+            Masjid Syuhada
+          </h2>
+          <span>- CDMS -</span>
+        </div>
+      </div>
+    </div>
+    <!-- akhir jumbotron -->
+
+    <!-- Pengantar -->
+    <section class="pengantar py-5 my-0 py-sm-5 my-sm-5">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-12 col-sm-6">
+            <span class="f-philo f-ket">Selamat datang di website</span>
+            <h2 class="f-philo f-jdl">
+              Corps Dakwah <br />
+              Masjid Syuhada
+            </h2>
+            <p>CDMS merrupakan lembaga semi otonom di bawah yayasan masjid syuhada (YASMA) , berkedudukan di Masjid Syuhada Yogyakarta yang beralamat di jalan 1 dewa nyoman oka 13 kotabaru yogyakarta</p>
+
+            <a href="" class="btn-custom text-center">selengkapnya</a>
+          </div>
+          <div class="col-12 col-sm-6 mt-5 mt-sm-0">
+            <img src="/img/3.JPG" alt="" width="100%" />
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--Akhir Pengantar -->
+    <h2 class="text-center mb-5 f-philo">Blog Terbaru</h2>
+    {{ partial "post-grid.html" . }}
+
+    <!-- Donasi Dakwah -->
+    <section class="donasi bg-warning p-5 text-white">
+      <h3 class="text-center donasi-isi f-philo">Donasi Untuk Dakwah</h3>
+      <br />
+      <div class="row justify-content-md-center donasi-isi align-items-center">
+        <div class="col-12 col-sm-6 text-center text-md-right">
+          <img src="/img/donasi.png" alt="" width="200px" />
+          <p>
+            Donasi untuk dakwah <br />
+            Rp 1000 ? bisa dongg <br />
+            tinggal Scan Dengan QRIS
+          </p>
+          <div class="d-block d-sm-none">
+            Atau Melalui Rekening BANK BSI <br />
+            <h1><b>7183996538</b></h1>
+            <span>An.Corps Dakwah Mjd Syuhada</span>
+
+            <br /><br />
+            <span>Konfirmasi ke </span>
+            <h3><b>085643301453</b></h3>
+            <span>An. Izza Wildan Ridhoni</span>
+          </div>
+        </div>
+        <div class="col-12 col-sm-6 d-none d-sm-block">
+          Atau Melalui Rekening BANK BSI <br />
+          <h1><b>7183996538</b></h1>
+          <span>An.Corps Dakwah Mjd Syuhada</span>
+
+          <br /><br />
+          <span>Konfirmasi ke </span>
+          <h3><b>085643301453</b></h3>
+          <span>An. Izza Wildan Ridhoni</span>
+        </div>
+      </div>
+    </section>
+    <!-- Akhir Donasi Dakwah -->
+
+    <!-- maps -->
+    <section class="maps py-5">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-12 col-sm-6">
+            <div class="box">
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d784.3814729720715!2d110.36924350819032!3d-7.786128690761765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a582e4bf0fdab%3A0xe71fab312b2f5b84!2sCorps%20Dakwah%20Masjid%20Syuhada!5e0!3m2!1sid!2sid!4v1641455449199!5m2!1sid!2sid"
+                width="100%"
+                height="450"
+                style="border: 0"
+                allowfullscreen=""
+                loading="lazy"
+              ></iframe
+              ><br />
+              <i class="fas fa-map-marker-alt"></i> <span>Lokasi Kantor Kami</span>
+            </div>
+          </div>
+          <div class="col-12 col-sm-6 my-5 my-sm-0">
+            <span class="text-center text-sm-left d-block"> Kantor Pusat </span><br />
+            <h3 class="text-center text-sm-left">Lokasi Kantor CDMS</h3>
+            <p class="text-center text-sm-left">Jl. I Dewa Nyoman Oka No.13, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224</p>
+            <a href="https://web.whatsapp.com/send?phone=6285643301453&text=Assalamualaikum%2C%20ada%20yang%20bisa%20kami%20bantu%3F" target="_blank" class="btn btn-success" style="width: 100%"
+              ><i class="fab fa-whatsapp"></i> Chat Whatsapp</a
+            >
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Akhir maps -->
+
+    <!-- widget whatsapp -->
+
+    <div class="elfsight-app-63898b03-3081-4c7b-b578-1b7572896f33"></div>
+
+    {{ partial "footer.html" . }} {{ partial "js-init.html" . }}
+  </body>
+</html>

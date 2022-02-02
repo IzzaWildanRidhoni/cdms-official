@@ -1,0 +1,29 @@
+title = "Corps Dakwah Masjid Syuhada"
+baseurl = "https://www.cdms.netlify.app/"
+
+# Agar front-matter pakai format YAML
+MetaDataFormat = "yaml"
+
+paginate = 6
+
+
+# untuk apply temanya
+themesDir = "themes"
+theme = "cdmstheme"
+
+# Shortname disqus, silahkan sesuaikan
+DisqusShortname = "Cdms Syuhada"
+
+# Untuk Google Analytic, silahkan sesuikan
+googleAnalytics = "UA-80517197-1" 
+
+# Untuk deskripsi tag meta di homepage
+description = "Web Landing Page CDMS Syuhada"
+
+# Biodata Author
+[author]
+    name = "Admin CDMS"
+    homepage = "https://twitter.com/ardiantapargo"
+    bio = "Pengamat Langit"
+    image = "https://www.pngall.com/wp-content/uploads/5/Profile-PNG-File.png"
+
