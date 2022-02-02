@@ -1,4 +1,5 @@
 ---
-title: 'Blog Cdms'
-summary: 'ini adalah halaman blog'
+title: Blog Cdms
+summary: Blog Tentang Informasi Kajian
+
 ---
