@@ -23,3 +23,5 @@ fields:
 - type: textarea
   name: thumbnail
   label: thumbnail
+pages:
+- content/blog/kajian-ahad-pagi-bulan-februari-2022.md
