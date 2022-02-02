@@ -1,6 +1,6 @@
 ---
-date: 2022-02-01T17:00:00+00:00
-title: KAJIAN AHAD PAGI BULAN FEBRUARI 2022
+date: 2022-02-01T17:00:00.000+00:00
+title: Jadwal Kajian Ahad Pagi Bulan Februari 2022
 slug: kajian-ahad-pagi-februari
 tags:
 - kajianrutinahadpagi
@@ -16,7 +16,7 @@ thumbnail: https://iili.io/lQfq41.jpg
 ---
 ![](/uploads/kajjianahadpagi-all.jpg)
 
-🕌KAJIAN AHAD PAGI BULAN FEBRUARI 2022🕌
+🕌Kajian Ahad Pagi Bulan Februari 2022🕌
 
 1\. Ustadzah Floweria, S.IP.
 
@@ -90,12 +90,12 @@ YouTube : CDMS Syuhada
 
 \#kajiancdms
 
-\#kajianahadpagi 
+\#kajianahadpagi
 
 \#kajiandisyuhada
 
 \#kajianrutinahadpagi
 
-\#kajianrutinahadpagicdms 
+\#kajianrutinahadpagicdms
 
 \#corpsdakwahmasjidsyuhada
