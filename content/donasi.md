@@ -2,6 +2,5 @@
 date: 2022-02-02T14:36:14.000+07:00
 title: Donasi
 layout: donasipage
-draft: true
-
+draft: false
 ---
