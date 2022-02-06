@@ -1,7 +1,7 @@
 ---
 date: 2022-02-06T17:00:00+00:00
 title: Pacaran Adalah Mendekati Diri Dengan Perzinahan
-slug: Pacaran-mendekati-dengan-perzinahan
+slug: Pacaran-adalah-mendekati-dengan-perzinahan
 tags:
 - kajian ahad pagi
 - pacaran
