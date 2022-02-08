@@ -60,11 +60,9 @@
   transform-origin: top;
   overflow: hidden;
   border-radius: 20px;
-}
-
-.box-cards:hover .imgBx {
   transform: translateY(30px) scale(0.5);
 }
+
 .imgBx img {
   position: absolute;
   top: 0;
@@ -76,7 +74,8 @@
 
 .box-cards .content {
   position: absolute;
-  top: 150px;
+  /* top: 150px; */
+  top: 0;
   left: 0;
   width: 100%;
   height: 100%;
@@ -132,8 +131,4 @@
 }
 .social_icons li a:hover {
   background-color: #ffc107;
-}
-
-.box-cards:hover .content {
-  top: 0;
 }
