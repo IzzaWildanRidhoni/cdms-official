@@ -3,17 +3,17 @@ date: 2022-02-01T17:00:00.000+00:00
 title: Jadwal Kajian Ahad Pagi Bulan Februari 2022
 slug: kajian-ahad-pagi-februari
 tags:
-- kajianrutinahadpagi
-- kajiancdms
-- kajianrutin
-- cdms
-- web
+  - kajianrutinahadpagi
+  - kajiancdms
+  - kajianrutin
+  - cdms
+  - web
 categories:
-- ''
+  - ''
 image: ''
 thumbnail: https://iili.io/lQfq41.jpg
-
 ---
+
 ![](/uploads/cover.png)
 
 🕌Kajian Ahad Pagi Bulan Februari 2022🕌
