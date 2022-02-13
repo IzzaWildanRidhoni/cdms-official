@@ -9,8 +9,6 @@ categories: []
 thumbnail: https://iili.io/0vCsxp.jpg
 
 ---
-<iframe src="[https://drive.google.com/file/d/1lbxzmCiO38s-1uL9kO62aK_bQqYUgfwZ/preview](https://drive.google.com/file/d/1lbxzmCiO38s-1uL9kO62aK_bQqYUgfwZ/preview "https://drive.google.com/file/d/1lbxzmCiO38s-1uL9kO62aK_bQqYUgfwZ/preview")" width="640" height="480" allow="autoplay"></iframe>
-
 Kajian Ahad Pagi 13 Februari 2022
 
 Tema : Layangan Putus
@@ -90,3 +88,11 @@ Vaksin dalam rumah tangga
 \- Kepuasan Seksual
 
 \- Kontrol Sosial
+
+>   
+> Download Materi   
+> [https://drive.google.com/file/d/1lbxzmCiO38s-1uL9kO62aK_bQqYUgfwZ/view?usp=sharing](https://drive.google.com/file/d/1lbxzmCiO38s-1uL9kO62aK_bQqYUgfwZ/view?usp=sharing "https://drive.google.com/file/d/1lbxzmCiO38s-1uL9kO62aK_bQqYUgfwZ/view?usp=sharing")
+
+> Link Livestream
+>
+> [https://www.instagram.com/tv/CZ5mAkVKYea/?utm_source=ig_web_copy_link](https://www.instagram.com/tv/CZ5mAkVKYea/?utm_source=ig_web_copy_link "Live Stream Layangan Putus Bersama Bu IDa Nur Laila")
