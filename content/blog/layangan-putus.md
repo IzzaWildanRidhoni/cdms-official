@@ -9,6 +9,8 @@ categories: []
 thumbnail: https://iili.io/0vCsxp.jpg
 
 ---
+![](https://iili.io/0vR0WG.jpg)
+
 Kajian Ahad Pagi 13 Februari 2022
 
 Tema : Layangan Putus
