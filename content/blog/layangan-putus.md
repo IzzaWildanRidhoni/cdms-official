@@ -1,6 +1,6 @@
 ---
 date: 2022-02-12T17:00:00+00:00
-title: Layangan Putus
+title: Kajian Ahad Pagi - Layangan Putus Bersama Bu Ida Nur Laila
 slug: layangan-putus-kajian-ahad-pagi
 tags:
 - kajian ahad pagi
