@@ -9,7 +9,7 @@ categories: []
 thumbnail: https://iili.io/0vCsxp.jpg
 
 ---
-    <iframe src="https://drive.google.com/file/d/1lbxzmCiO38s-1uL9kO62aK_bQqYUgfwZ/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="[https://drive.google.com/file/d/1lbxzmCiO38s-1uL9kO62aK_bQqYUgfwZ/preview](https://drive.google.com/file/d/1lbxzmCiO38s-1uL9kO62aK_bQqYUgfwZ/preview "https://drive.google.com/file/d/1lbxzmCiO38s-1uL9kO62aK_bQqYUgfwZ/preview")" width="640" height="480" allow="autoplay"></iframe>
 
 Kajian Ahad Pagi 13 Februari 2022
 
@@ -17,7 +17,7 @@ Tema : Layangan Putus
 
 Merawat Layangan Agar tidak putus
 
-Allah SWT berfirman : 
+Allah SWT berfirman :
 
 وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ
 
@@ -37,7 +37,7 @@ Buya Hamka dalam tafsir Al Azhar menjelaskan, “Dan dijadikan di antara kamu ci
 
 3\. Rahmah
 
-Munculnya rasa kasih sayang antar sesama pasangan. Di waktu badan masih sama-sama kuat dan muda, 
+Munculnya rasa kasih sayang antar sesama pasangan. Di waktu badan masih sama-sama kuat dan muda,
 
 mawaddah (kasih cinta) lah yang tertonjol. Kalau sudah berumur, rahmah-lah (belas kasih) yang terkemuka. Suami dihormati dan isteri dihargai, karena pantas untuk dihormati dan dihargai. Orangtua dikhidmati oleh anak-anaknya, anak percaya dan sayang kepada ibu bapaknya, karena ibu bapak tidak pernah kecurian budi oleh anak-anaknya.
 
@@ -53,7 +53,7 @@ Mengetahui sifat asli pasangan dari perilaku, sifat dan sikap yang menyebabkan s
 
 3\. Knowledge and awareness
 
-Mencari solusi dari permasalahan yang muncul. 
+Mencari solusi dari permasalahan yang muncul.
 
 4\. Transformation
 
