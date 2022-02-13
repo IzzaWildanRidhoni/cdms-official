@@ -1,6 +1,6 @@
 ---
-date: 2022-02-06T17:00:00+00:00
-title: Pacaran Adalah Mendekati Diri Dengan Perzinahan
+date: 2022-02-06T17:00:00.000+00:00
+title: Kajian Ahad Pagi - Pacaran Adalah Mendekati Diri Dengan Perzinahan
 slug: Pacaran-adalah-mendekati-dengan-perzinahan
 tags:
 - kajian ahad pagi
