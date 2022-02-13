@@ -7,7 +7,6 @@ tags:
 - layangan putus
 categories: []
 thumbnail: https://iili.io/0vCsxp.jpg
-draft: true
 
 ---
     <iframe src="https://drive.google.com/file/d/1lbxzmCiO38s-1uL9kO62aK_bQqYUgfwZ/preview" width="640" height="480" allow="autoplay"></iframe>
