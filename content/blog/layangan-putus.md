@@ -3,12 +3,12 @@ date: 2022-02-12T17:00:00+00:00
 title: Kajian Ahad Pagi - Layangan Putus Bersama Bu Ida Nur Laila
 slug: layangan-putus-kajian-ahad-pagi
 tags:
-- kajian ahad pagi
-- layangan putus
+  - kajian ahad pagi
+  - layangan putus
 categories: []
 thumbnail: https://iili.io/0vCsxp.jpg
-
 ---
+
 ![](https://iili.io/0vR0WG.jpg)
 
 Kajian Ahad Pagi 13 Februari 2022
@@ -29,7 +29,7 @@ Keluarga Samara (Sakinah Mawaddah Warrohmah)
 
 Buya Hamka dalam tafsir Al Azhar menjelaskan, “Agar tenteramlah kamu kepadanya”, artinya akan gelisahlah hidup kalau hanya seorang diri karena kesepian, terpencil tidak berteman.
 
-Setelah menemukan pasangan,  muncul rasa nyaman, tentram dengan pasangan.
+Setelah menemukan pasangan, muncul rasa nyaman, tentram dengan pasangan.
 
 2\. Mawaddah
 
@@ -91,10 +91,11 @@ Vaksin dalam rumah tangga
 
 \- Kontrol Sosial
 
->   
-> Download Materi   
-> [https://drive.google.com/file/d/1lbxzmCiO38s-1uL9kO62aK_bQqYUgfwZ/view?usp=sharing](https://drive.google.com/file/d/1lbxzmCiO38s-1uL9kO62aK_bQqYUgfwZ/view?usp=sharing "https://drive.google.com/file/d/1lbxzmCiO38s-1uL9kO62aK_bQqYUgfwZ/view?usp=sharing")
+> Download Materi  
+> [https://drive.google.com/file/d/1lbxzmCiO38s-1uL9kO62aK_bQqYUgfwZ/view?usp=sharing](https://drive.google.com/file/d/1lbxzmCiO38s-1uL9kO62aK_bQqYUgfwZ/view?usp=sharing 'https://drive.google.com/file/d/1lbxzmCiO38s-1uL9kO62aK_bQqYUgfwZ/view?usp=sharing')
 
 > Link Livestream
 >
-> [https://www.instagram.com/tv/CZ5mAkVKYea/?utm_source=ig_web_copy_link](https://www.instagram.com/tv/CZ5mAkVKYea/?utm_source=ig_web_copy_link "Live Stream Layangan Putus Bersama Bu IDa Nur Laila")
+> [https://www.instagram.com/tv/CZ5mAkVKYea/?utm_source=ig_web_copy_link](https://www.instagram.com/tv/CZ5mAkVKYea/?utm_source=ig_web_copy_link 'Live Stream Layangan Putus Bersama Bu IDa Nur Laila')
+
+{{< instagram CZ5mAkVKYea >}}
