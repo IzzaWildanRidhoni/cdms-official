@@ -91,11 +91,4 @@ Vaksin dalam rumah tangga
 
 \- Kontrol Sosial
 
-> Download Materi  
-> [https://drive.google.com/file/d/1lbxzmCiO38s-1uL9kO62aK_bQqYUgfwZ/view?usp=sharing](https://drive.google.com/file/d/1lbxzmCiO38s-1uL9kO62aK_bQqYUgfwZ/view?usp=sharing 'https://drive.google.com/file/d/1lbxzmCiO38s-1uL9kO62aK_bQqYUgfwZ/view?usp=sharing')
-
-> Link Livestream
->
-> [https://www.instagram.com/tv/CZ5mAkVKYea/?utm_source=ig_web_copy_link](https://www.instagram.com/tv/CZ5mAkVKYea/?utm_source=ig_web_copy_link 'Live Stream Layangan Putus Bersama Bu IDa Nur Laila')
-
-{{< instagram CZ5mAkVKYea >}}
+{{< layangan-putus-ig >}}

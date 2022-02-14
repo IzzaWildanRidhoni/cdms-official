@@ -6,6 +6,7 @@ MetaDataFormat = "yaml"
 
 paginate = 6
 
+ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # untuk apply temanya
 themesDir = "themes"
