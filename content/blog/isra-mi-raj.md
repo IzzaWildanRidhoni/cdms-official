@@ -8,7 +8,6 @@ tags:
 categories:
 - blog
 thumbnail: https://i.ibb.co/3BHJ8t4/Isra-Mi-raj.png
-draft: true
 
 ---
 ![](/uploads/isra-mi-raj.png)
