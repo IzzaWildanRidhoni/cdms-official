@@ -65,7 +65,7 @@
 }
 
 .box-cards:hover .imgBx {
-  transform: translateY(30px) scale(1);
+  transform: translateY(0) scale(1);
 }
 
 .imgBx img {
@@ -93,7 +93,7 @@
 
 .box-cards:hover .content {
   top: 150px;
-  /* top: 0; */
+  /* top:    0; */
 }
 .box-cards .container .details {
   color: white;
