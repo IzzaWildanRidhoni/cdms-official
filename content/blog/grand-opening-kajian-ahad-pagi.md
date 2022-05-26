@@ -3,11 +3,13 @@ date: 2022-05-25T17:00:00+00:00
 title: 'Grand Opening Kajian Ahad Pagi '
 slug: grand-opening-kajian-ahad-pagi-2022
 tags:
+- pasar gratis
 - grand opening
 - cdms
 - kajian
 - kajian ahad pagi
 categories:
+- pasar gratis
 - kajian ahad pagi 2022
 - kajian ahad pagi
 thumbnail: https://i.ibb.co/Y3CQ1hg/kajian-ahad-pagi-1.png
