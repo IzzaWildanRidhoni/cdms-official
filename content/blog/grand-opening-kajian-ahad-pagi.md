@@ -15,7 +15,6 @@ categories:
 thumbnail: https://i.ibb.co/Y3CQ1hg/kajian-ahad-pagi-1.png
 
 ---
-![](https://i.ibb.co/Y3CQ1hg/kajian-ahad-pagi-1.png)
 
 ## **Latar Belakang**
 
@@ -23,11 +22,11 @@ Bulan Syawal merupakan bulan memiliki banyak keutamaan. Rasulullah SAW menjadika
 
 ## **Tujuan**
 
-1\. Meningkatkan peranan Masjid Syuhada sebagai wujud fungsi sosial budaya terhadap masyarakat yang direalisasikan melalui lembaga Cops Dakwah Masjid Syuhada.
+1.  Meningkatkan peranan Masjid Syuhada sebagai wujud fungsi sosial budaya terhadap masyarakat yang direalisasikan melalui lembaga Cops Dakwah Masjid Syuhada.
+
 
 2. Mengeratkan Masjid Syuhada dengan masyarakat sekitar dengan berusaha memenuhi kebutuhan sandang dan pangan warga pada bulan Syawal ini.
-
-3\. Membangun pribadi muslim-muslimah yang tangguh, yang memiliki pemahaman dan wawasan keislaman yang luas dan didasari akidah islamiah yang kuat
+3. Membangun pribadi muslim-muslimah yang tangguh, yang memiliki pemahaman dan wawasan keislaman yang luas dan didasari akidah islamiah yang kuat
 
 ## **Sasaran Kegiatan**
 
