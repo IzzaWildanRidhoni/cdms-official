@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url(../img/bg.png);
+  /* background-image: url(../img/bg.png); */
   overflow-x: hidden;
 }
 .f-philo {
@@ -29,6 +29,8 @@ body {
 nav {
   text-transform: uppercase;
   color: white;
+  box-shadow: rgba(0, 0, 5px, 0.6);
+  transition: .1s;
 }
 .nav-link {
   margin-left: 10px;
@@ -104,7 +106,7 @@ nav {
 /* donasi */
 
 .donasi {
-  background-image: url(../img/3.JPG);
+  background-image: url(../img/bg-jumbotron.JPG);
   background-size: cover;
   background-attachment: fixed;
   position: relative;

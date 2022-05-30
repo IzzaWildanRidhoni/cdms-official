@@ -4,7 +4,39 @@
     {{ partial "head.html" . }}
   </head>
   <body>
-    {{ partial "nav.html" . }}
+      <nav class="navbar navbar-expand-lg navbar-dark py-3 fixed-top" id="navbar-home">
+      <div class="container">
+        <a class="navbar-brand" href="{{.Site.BaseURL}}"><img src="/img/logo.png" alt="" height="50px" /></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="{{.Site.BaseURL}}">Home</a>
+            </li>
+            <li class="nav-item dropdown active">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-expanded="false">Tentang Kami</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                <a class="dropdown-item" href="/profile">Profile</a>
+                <a class="dropdown-item" href="/struktur">Struktur Organisasi</a>
+              </div>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" href="/blog">Blog</a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" href="/laporan">Laporan</a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link btn btn-warning text-white btn-donasi" href="/donasi">Donasi</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!-- akhir header -->
+
 
     <!-- jumbotron -->
     <div class="jumbotron jumbotron-fluid">
@@ -32,10 +64,10 @@
             </h2>
             <p>CDMS merrupakan lembaga semi otonom di bawah yayasan masjid syuhada (YASMA) , berkedudukan di Masjid Syuhada Yogyakarta yang beralamat di jalan 1 dewa nyoman oka 13 kotabaru yogyakarta</p>
 
-            <a href="/profile" class="btn-custom text-center">selengkapnya</a>
+            <a href="/profile" class="btn-custom text-center" style="border-radius:5px;">selengkapnya</a>
           </div>
           <div class="col-12 col-sm-6 mt-5 mt-sm-0">
-            <img src="/img/3.JPG" alt="" width="100%" />
+            <img src="/img/3.JPG" alt="" width="100%" style="border-radius:5px;" />
           </div>
         </div>
       </div>
@@ -85,7 +117,7 @@
     <section class="maps py-5">
       <div class="container">
         <div class="row align-items-center">
-          <div class="col-12 col-sm-6">
+          <div class="col-12">
             <div class="box">
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d784.3814729720715!2d110.36924350819032!3d-7.786128690761765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a582e4bf0fdab%3A0xe71fab312b2f5b84!2sCorps%20Dakwah%20Masjid%20Syuhada!5e0!3m2!1sid!2sid!4v1641455449199!5m2!1sid!2sid"
@@ -99,14 +131,7 @@
               <i class="fas fa-map-marker-alt"></i> <span>Lokasi Kantor Kami</span>
             </div>
           </div>
-          <div class="col-12 col-sm-6 my-5 my-sm-0">
-            <span class="text-center text-sm-left d-block"> Kantor Pusat </span><br />
-            <h3 class="text-center text-sm-left">Lokasi Kantor CDMS</h3>
-            <p class="text-center text-sm-left">Jl. I Dewa Nyoman Oka No.13, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224</p>
-            <a href="https://web.whatsapp.com/send?phone=6285643301453&text=Assalamualaikum%2C%20ada%20yang%20bisa%20kami%20bantu%3F" target="_blank" class="btn btn-success" style="width: 100%"
-              ><i class="fab fa-whatsapp"></i> Chat Whatsapp</a
-            >
-          </div>
+         
         </div>
       </div>
     </section>
@@ -115,7 +140,25 @@
     <!-- widget whatsapp -->
 
     <div class="elfsight-app-63898b03-3081-4c7b-b578-1b7572896f33"></div>
+   <script>
+     window.onscroll = function() {scrollFunction()};
 
+    function scrollFunction() {
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 100) {
+        document.getElementById("navbar-home").style.backgroundColor = "white";
+        var element = document.getElementById("navbar-home");
+         element.classList.add("navbar-light");
+         element.classList.remove("navbar-dark");
+        
+      } else {
+        document.getElementById("navbar-home").style.backgroundColor = "transparent";
+        var element = document.getElementById("navbar-home");
+         element.classList.remove("navbar-light");
+         element.classList.add("navbar-dark");
+      }
+    }
+   </script>
     {{ partial "footer.html" . }} {{ partial "js-init.html" . }}
+    
   </body>
 </html>
