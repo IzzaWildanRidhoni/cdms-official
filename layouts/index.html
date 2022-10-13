@@ -4,7 +4,7 @@
     {{ partial "head.html" . }}
   </head>
   <body>
-      <nav class="navbar navbar-expand-lg navbar-dark py-3 fixed-top" id="navbar-home">
+    <nav class="navbar navbar-expand-lg navbar-dark py-3 fixed-top" id="navbar-home">
       <div class="container">
         <a class="navbar-brand" href="{{.Site.BaseURL}}"><img src="/img/logo.png" alt="" height="50px" /></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -37,7 +37,6 @@
     </nav>
     <!-- akhir header -->
 
-
     <!-- jumbotron -->
     <div class="jumbotron jumbotron-fluid">
       <div class="container">
@@ -64,14 +63,27 @@
             </h2>
             <p>CDMS merrupakan lembaga semi otonom di bawah yayasan masjid syuhada (YASMA) , berkedudukan di Masjid Syuhada Yogyakarta yang beralamat di jalan 1 dewa nyoman oka 13 kotabaru yogyakarta</p>
 
-            <a href="/profile" class="btn-custom text-center" style="border-radius:5px;">selengkapnya</a>
+            <a href="/profile" class="btn-custom text-center" style="border-radius: 5px">selengkapnya</a>
           </div>
           <div class="col-12 col-sm-6 mt-5 mt-sm-0">
-            <img src="/img/3.JPG" alt="" width="100%" style="border-radius:5px;" />
+            <img src="/img/3.JPG" alt="" width="100%" style="border-radius: 5px" />
           </div>
         </div>
       </div>
     </section>
+
+    <!-- spotify -->
+    <iframe
+      style="border-radius: 12px"
+      src="https://open.spotify.com/embed/show/6o1d4CVZXBfDI7zqWXPrjb?utm_source=generator&theme=0"
+      width="100%"
+      height="352"
+      frameborder="0"
+      allowfullscreen=""
+      allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+      loading="lazy"
+    ></iframe>
+    <!-- Akhir spotify -->
     <!--Akhir Pengantar -->
     <h2 class="text-center mb-5 f-philo">Blog Terbaru</h2>
     {{ partial "post-grid.html" . }}
@@ -131,7 +143,6 @@
               <i class="fas fa-map-marker-alt"></i> <span>Lokasi Kantor Kami</span>
             </div>
           </div>
-         
         </div>
       </div>
     </section>
@@ -140,25 +151,25 @@
     <!-- widget whatsapp -->
 
     <div class="elfsight-app-63898b03-3081-4c7b-b578-1b7572896f33"></div>
-   <script>
-     window.onscroll = function() {scrollFunction()};
+    <script>
+      window.onscroll = function () {
+        scrollFunction();
+      };
 
-    function scrollFunction() {
-      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 100) {
-        document.getElementById("navbar-home").style.backgroundColor = "white";
-        var element = document.getElementById("navbar-home");
-         element.classList.add("navbar-light");
-         element.classList.remove("navbar-dark");
-        
-      } else {
-        document.getElementById("navbar-home").style.backgroundColor = "transparent";
-        var element = document.getElementById("navbar-home");
-         element.classList.remove("navbar-light");
-         element.classList.add("navbar-dark");
+      function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 100) {
+          document.getElementById('navbar-home').style.backgroundColor = 'white';
+          var element = document.getElementById('navbar-home');
+          element.classList.add('navbar-light');
+          element.classList.remove('navbar-dark');
+        } else {
+          document.getElementById('navbar-home').style.backgroundColor = 'transparent';
+          var element = document.getElementById('navbar-home');
+          element.classList.remove('navbar-light');
+          element.classList.add('navbar-dark');
+        }
       }
-    }
-   </script>
+    </script>
     {{ partial "footer.html" . }} {{ partial "js-init.html" . }}
-    
   </body>
 </html>
