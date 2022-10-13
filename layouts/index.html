@@ -195,12 +195,14 @@
           document.getElementById('navbar-home').style.backgroundColor = 'white';
           var element = document.getElementById('navbar-home');
           element.classList.add('navbar-light');
+          element.classList.add('shadow-sm');
           element.classList.add('border');
           element.classList.remove('navbar-dark');
         } else {
           document.getElementById('navbar-home').style.backgroundColor = 'transparent';
           var element = document.getElementById('navbar-home');
           element.classList.remove('navbar-light');
+          element.classList.remove('shadow-sm');
           element.classList.remove('border');
           element.classList.add('navbar-dark');
         }

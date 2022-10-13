@@ -4,25 +4,85 @@
   <body>
     {{- partial "nav.html" . -}}
     <br>
-<div class="container mb-5 mt-5 pt-5">
-    <div class="bg-white p-5 " style="border-radius: 20px;">
-       <h3>Laporan Bidang Kajian CDMS</h3>
-      
-       <a href="/laporan/januari.docx"> Bulan Januari 2022</a><br>
-       <a href="#"> Bulan februari 2022</a><br>
-       <a href="/laporan/maret.pdf"> Bulan maret 2022</a><br>
-       <a href="#"> Bulan April 2022</a> <br>
-       <a href="/laporan/mei.pdf"> Bulan Mei 2022</a><br>
-       <a href="/laporan/juni.pdf"> Bulan Juni 2022</a><br>
-       <a href="/laporan/juli.pdf"> Bulan Juli 2022</a> <br>
-       <a href="#"> Bulan Agustus 2022</a><br>
-       <a href="#"> Bulan Spetember 2022</a><br>
-       <a href="#"> Bulan Oktober 2022</a><br>
-       <a href="#"> Bulan November 2022</a><br>
-       <a href="#"> Bulan Desember 2022</a><br>
+<div class="container mb-5 mt-5">
+    <div class="bg-white" style="border-radius: 20px;">
+      <div class="accordion mt-5 pt-5" id="accordionExample">
+      <div class="card">
+        <div class="card-header" id="headingOne">
+          <h2 class="mb-0">
+            <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+              <h4 class="text-dark" style="text-decoration: none;">Laporan Bidang Kajian</h4>
+            </button>
+          </h2>
+        </div>
 
-      <h3 class="mt-3">Laporan Keuangan CDMS</h3>
-       <a href="https://bit.ly/keuangancdms">Keuangan Januari - September</a><br>
+        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+          <div class="card-body">
+            <div class="row">
+              <div class="col-12 col-sm-6">
+                <ul>
+                  <li>
+                    <a href="/laporan/januari.docx"> Laporan Bulan Januari 2022</a><br>
+                  </li>
+                <li>
+                  <a href="#"> Laporan Bulan februari 2022</a><br>
+                </li>
+                <li>
+                  <a href="/laporan/maret.pdf"> Laporan Bulan maret 2022</a><br>
+                </li>
+                <li>
+                  <a href="#"> Laporan Bulan April 2022</a> <br>
+                </li>
+                <li>
+                  <a href="/laporan/mei.pdf"> Laporan Bulan Mei 2022</a><br>
+                </li>
+                <li>
+                  <a href="/laporan/juni.pdf"> Laporan Bulan Juni 2022</a><br>
+                </li>
+                </ul>
+              </div>
+              <div class="col-12 col-sm-6">
+                <ul>
+                    <li>
+                      <a href="/laporan/juli.pdf"> Laporan Bulan Juli 2022</a> <br>
+                    </li>
+                    <li>
+                      <a href="#"> Laporan Bulan Agustus 2022</a><br>
+                    </li>
+                    <li>
+                      <a href="#"> Laporan Bulan Spetember 2022</a><br>
+                    </li>
+                    <li>
+                      <a href="#"> Laporan Bulan Oktober 2022</a><br>
+                    </li>
+                    <li>
+                      <a href="#"> Laporan Bulan November 2022</a><br>
+                    </li>
+                    <li>
+                      <a href="#"> Laporan Bulan Desember 2022</a><br>
+                    </li>
+                  </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header" id="headingTwo">
+          <h2 class="mb-0">
+            <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+               <h4 class="text-dark" style="text-decoration: none;">Laporan Bidang Kajian</h4>
+            </button>
+          </h2>
+        </div>
+        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+          <div class="card-body">
+               <a href="https://bit.ly/keuangancdms">Keuangan Januari - September</a>
+          </div>
+        </div>
+      </div>
+     
+    </div>
     </div>
 </div>
 </div>

@@ -1,5 +1,6 @@
 .box-kotak {
   background-image: url(../img/bg-jumbotron.jpg);
+  /* background-color: #262626; */
   background-size: cover;
   background-attachment: fixed;
   background-position-y: center;
