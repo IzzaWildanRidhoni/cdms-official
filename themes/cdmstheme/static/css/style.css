@@ -30,7 +30,7 @@ nav {
   text-transform: uppercase;
   color: white;
   box-shadow: rgba(0, 0, 5px, 0.6);
-  transition: .1s;
+  transition: 0.1s;
 }
 .nav-link {
   margin-left: 10px;
@@ -45,7 +45,7 @@ nav {
 
 .jumbotron {
   height: 100vh;
-  background-image: url(../img/bg-jumbotron.JPG);
+  background-image: url(../img/bg-jumbotron.jpg);
   background-size: cover;
   background-attachment: fixed;
   position: relative;
@@ -254,6 +254,7 @@ nav {
 .pengantar span {
   font-size: 25px;
 }
+
 /* responsive web */
 @media only screen and (min-width: 600px) {
   .jumbotron-isi h2 {
