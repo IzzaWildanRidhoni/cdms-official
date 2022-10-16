@@ -11,13 +11,15 @@ categories:
 thumbnail: https://i.ibb.co/9rpz3fK/poster.jpg
 
 ---
+![](/uploads/twitter-header-1.png)
+
 **MASALAH EKONOMI ISLAM**
 
 **PENDAHULUAN**
 
 1- Nabi Muhammad Shalallaahu Alaihi Wassalaam :
 
-\- Dilahirkan di hari Senin, 12 Rabi’ul Awal Tahun Gajah, maka beliau melaksanakan Puasa sunnat setiap hari Senin 
+\- Dilahirkan di hari Senin, 12 Rabi’ul Awal Tahun Gajah, maka beliau melaksanakan Puasa sunnat setiap hari Senin
 
 2- Nur Muhammad sudah di ketahui oleh para Malaikat sebelum Nabi Adam Allah ciptakan.
 
@@ -45,7 +47,7 @@ thumbnail: https://i.ibb.co/9rpz3fK/poster.jpg
 
 \- Kelompok Perampok : yang ditakuti para pedagang dari luar, mereka diberikan laba 10% dari pedagang untuk menjamin keamanan mereka.
 
-3- Ada 3 sebab orang Quraiys menolak ajaran Islam yaitu : 
+3- Ada 3 sebab orang Quraiys menolak ajaran Islam yaitu :
 
 1\. Agama yang dibawa Muhammad menyamakan kedudukan antara bawahan dengan bangsawan
 
@@ -57,13 +59,13 @@ thumbnail: https://i.ibb.co/9rpz3fK/poster.jpg
 
 1- Ekonomi dalam Islam sangat mengutamakan akhlak
 
-2- Prinsip ekonomi : Dalam urusan muamalah semuanya halal kecuali yang dilarang dari syariat seperti : 
+2- Prinsip ekonomi : Dalam urusan muamalah semuanya halal kecuali yang dilarang dari syariat seperti :
 
-\- Haramnya riba, sebab : 
+\- Haramnya riba, sebab :
 
-1\. Mengambil harta tanpa ada imbalannya. 
+1\. Mengambil harta tanpa ada imbalannya.
 
-2\. Membuat orang tidak mau bekerja, 
+2\. Membuat orang tidak mau bekerja,
 
 3\. Tradisi pinjam meminjam antara kaya dan miskin
 
@@ -81,7 +83,7 @@ thumbnail: https://i.ibb.co/9rpz3fK/poster.jpg
 
 5\. Penimbunan
 
-3- Pemanfaatan ekonomi Islam 
+3- Pemanfaatan ekonomi Islam
 
 \- Menggerakan ekonomi Islam
 
@@ -89,7 +91,7 @@ thumbnail: https://i.ibb.co/9rpz3fK/poster.jpg
 
 \- Dilarang berjudi > problem secara ekonom, ada menang atau kalah sehingga ada yang kehilangan tidak ada yang untung, Menimbulkan permusuhan.
 
-4- Jual beli saham > boleh, kecuali Saham yang bertentang dengan syariat : 
+4- Jual beli saham > boleh, kecuali Saham yang bertentang dengan syariat :
 
 \- Rokok
 
@@ -103,7 +105,7 @@ thumbnail: https://i.ibb.co/9rpz3fK/poster.jpg
 
 \- Ridha
 
-6- Menghadapi Resesi Ekonomi 
+6- Menghadapi Resesi Ekonomi
 
 \- Pertumbuhan ekonomi semakin tidak menentu
 
@@ -121,7 +123,7 @@ thumbnail: https://i.ibb.co/9rpz3fK/poster.jpg
 
 Hari, tgl : Ahad, 16 Oktober 2022
 
-Tempat : Masjid Syuhada Kotabaru Yogyakarta 
+Tempat : Masjid Syuhada Kotabaru Yogyakarta
 
 Penceramah : Abdul Qayum
 
