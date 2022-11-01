@@ -5,7 +5,7 @@ slug: Keluarga Sebagai Perioritas dakwah
 tags: []
 categories:
 - kajian ahad pagi
-thumbnail: https://i.postimg.cc/NGdvzHpY/309318367-199525439121902-5024441947436760522-n.jpg
+thumbnail: https://i.scdn.co/image/ab67656300005f1f121d7521f4f714d1001707ad
 
 ---
 **Kajian Ahad Pagi 23 oktober**
